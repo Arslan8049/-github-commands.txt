@@ -19,4 +19,8 @@
 19  git push origin master 
 20  git clone https://github.com/Arslan8049/code.git (pull the code from GitHub to local terminal)
 
+this is new changing in commands
+and i am learning linux and github
+
+
 
