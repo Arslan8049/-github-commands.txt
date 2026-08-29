@@ -1,21 +1,22 @@
-git add file name (untack file convert to track file)
-git commit -m "comment" (snap short or check point)
-git log (to check all commit )
-git log --oneline (to check all commit in short way)
-git add . (to move staging area)
-git restore --staged <file> (stage into un staged file)
-.gitignore(hide the files)
-.gitkeep(for showing directories in terminal)
-git branch (to check you entered branch)
-git branch name (to copy of all commit and create a new branch similar master branch)
-git switched ( to enter another branch)
-git branch -d (for delete to another branch)
-(push to GitHub repostery)
-git remote add origin https://github.com/Arslan8049/git-commands.git
- git remote -v
-git push origin master (method 1) verification
-(method 2) 
-git remote set-url origin https://token-code@github.com/Arslan8049/-git-hub-commads.txt.git
-git push origin master 
+1   git add file name (untack file convert to track file)
+2   git commit -m "comment" (snap short or check point)
+3   git log (to check all commit )
+4   git log --oneline (to check all commit in short way)
+5   git add . (to move staging area)
+6   git restore --staged <file> (stage into un staged file)
+7   .gitignore(hide the files)
+8   .gitkeep(for showing directories in terminal)
+9   git branch (to check you entered branch)
+10  git branch name (to copy of all commit and create a new branch similar master branch)
+11  git switched ( to enter another branch)
+12  git branch -d (for delete to another branch)
+13  (push to GitHub repostery)
+14  git remote add origin https://github.com/Arslan8049/git-commands.git
+15  git remote -v
+16  git push origin master (method 1) verification
+17  (method 2) 
+18  git remote set-url origin https://token-code@github.com/Arslan8049/-git-hub-commads.txt.git
+19  git push origin master 
+20  git clone https://github.com/Arslan8049/code.git (pull the code from GitHub to local terminal)
 
-git clone https://github.com/Arslan8049/code.git (pull the code from GitHub to local terminal)
+
