@@ -11,3 +11,11 @@ git branch name (to copy of all commit and create a new branch similar master br
 git switched ( to enter another branch)
 git branch -d (for delete to another branch)
 (push to GitHub repostery)
+git remote add origin https://github.com/Arslan8049/git-commands.git
+ git remote -v
+git push origin master (method 1) verification
+(method 2) 
+git remote set-url origin https://token-code@github.com/Arslan8049/-git-hub-commads.txt.git
+git push origin master 
+
+git clone https://github.com/Arslan8049/code.git (pull the code from GitHub to local terminal)
